@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#08090D" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="500" fill="#08090D"/>
+  <circle cx="400" cy="240" r="220" fill="url(#g1)"/>
+  <circle cx="400" cy="240" r="110" fill="none" stroke="#93C5FD" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="400" cy="240" r="165" fill="none" stroke="#A78BFA" stroke-width="1.5" stroke-dasharray="8 8" stroke-opacity="0.5"/>
+  <text x="400" y="250" text-anchor="middle" fill="#F8FAFC" font-family="sans-serif" font-size="28" font-weight="600">NEXAVAULT ORBIT RENDER</text>
+</svg>

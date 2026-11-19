@@ -1,0 +1,9 @@
+{
+  "vault": "NEXAVAULT",
+  "quotaBytes": 3000000000000,
+  "encryption": "AES-256-GCM + Signed URL HMAC",
+  "regions": [
+    "asia-south1",
+    "asia-southeast1"
+  ]
+}

@@ -1,0 +1,4 @@
+NEXAVAULT Release Notes
+- Kapasitas 3.000 GB (3 TB) per akun
+- Dukungan upload multipart & resumable
+- Pratinjau media terenkripsi & link berbagi berpassword.

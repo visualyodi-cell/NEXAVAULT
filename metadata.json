@@ -1,0 +1,6 @@
+{
+  "name": "NEXAVAULT — Your Personal Cloud Universe",
+  "description": "One Universe. Three Terabytes. Infinite Possibilities. Platform penyimpanan cloud 3 TB dengan manajemen file, pratinjau media, dan berbagi aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
